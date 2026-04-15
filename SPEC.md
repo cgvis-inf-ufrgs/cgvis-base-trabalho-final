@@ -26,8 +26,8 @@
 >   de referência que você vai implementar. **Sua implementação deverá
 >   ser o mais parecido possível com o que é mostrado no vídeo (mais
 >   detalhes abaixo).**
-> - **Você não pode escolher como referência algum trabalho realizado
->   por outros alunos desta disciplina, em semestres anteriores**
+> - **Você não pode escolher como referência: (1) algum trabalho realizado
+>   por outros alunos desta disciplina, em semestres anteriores. (2) Minecraft.**
 > - Por exemplo, você pode colocar um vídeo de um jogo que você gosta,
 >   e seu trabalho final será uma re-implementação do jogo.
 > - O vídeo pode ser um link para YouTube, Google Drive, ou arquivo mp4 dentro
