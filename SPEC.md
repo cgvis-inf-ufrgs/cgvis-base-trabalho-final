@@ -49,16 +49,12 @@
 ### Imagens
 
 > [!IMPORTANT]
-> - Coloquei aqui **três imagens** capturadas do vídeo acima, que você
+> - Coloque aqui **três imagens** capturadas do vídeo acima, que você
 >   irá usar como ilustração para as explicações que vêm abaixo.
 
 <mark>`<preencher>`</mark>
 
 ## Especificação textual
-
-> [!IMPORTANT]
-> - Coloquei aqui **três imagens** capturadas do vídeo acima, que você
->   irá usar como ilustração para as explicações que vêm abaixo.
 
 Para cada um dos requisitos abaixo (detalhados no [Enunciado do Trabalho final - Moodle](https://moodle.ufrgs.br/mod/assign/view.php?id=6018620)), escreva um parágrafo **curto** explicando como este requisito será atendido, apontando itens específicos do vídeo/imagens que você incluiu acima que atendem estes requisitos.
 
